@@ -11,16 +11,16 @@
 ### 🧑‍💻 About Me
 - 🔭 I’m working on Web Development  
 - 🌱 Learning React & Advanced JS  
-- ⚡ Fun fact: I forget to sleep when I code 😄  
+- ⚡ Fun fact: I forget to sleep when I code 
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/yourprofile" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://www.linkedin.com/in/altaf-malik-97691b365/" height="40" />
 </a>
-<a href="https://github.com/ibrahimkhan432" target="blank">
+<a href="https://github.com/AltafMalik99" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
