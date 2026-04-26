@@ -1,4 +1,4 @@
-# AltafMalik99-
+# AltafMalik99
 <h1 align="center">Hi 👋, I'm Muhammed Altaf</h1>
 <h3 align="center">🚀 Front-End Developer | React Lover</h3>
 
