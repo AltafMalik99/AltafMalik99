@@ -1,5 +1,5 @@
 # AltafMalik99
-<h1 align="center">Hi 👋, I'm Muhammed Altaf</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Altaf</h1>
 <h3 align="center">🚀 Front-End Developer | React Lover</h3>
 
 <p align="center">
@@ -36,13 +36,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimkhan432&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhan432&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AltafMalik99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AltafMalik99&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimkhan432&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AltafMalik99&theme=react-dark" />
 </p>
