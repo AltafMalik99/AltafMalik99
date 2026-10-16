@@ -17,12 +17,12 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">
-<img align="center" src="https://www.linkedin.com/in/altaf-malik-97691b365/" height="40" />
-</a>
-<a href="https://github.com/AltafMalik99" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/altaf-malik-97691b365/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AltafMalik99" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
 </p>
 
 ---
