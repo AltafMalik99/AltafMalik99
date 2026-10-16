@@ -1,17 +1,17 @@
 # AltafMalik99
 <h1 align="center">Hi 👋, I'm Muhammad Altaf</h1>
-<h3 align="center">🚀 Front-End Developer | React Lover</h3>
+<h3 align="center">🚀 Full-Stack Developer | React & Node.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Front-End+Developer;React+Developer;Always+Learning+New+Things;Building+Awesome+Websites" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m working on Web Development  
-- 🌱 Learning React & Advanced JS  
-- ⚡ Fun fact: I forget to sleep when I code 
+- 🔭 I’m currently working on **Full-Stack Web Applications**  
+- 🌱 Learning **Advanced Backend Architecture & Databases**  
+- ⚡ Fun fact: I forget to sleep when I code  
 
 ---
 
@@ -27,9 +27,9 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack & Skills
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,git,github,vscode" />
 </p>
 
 ---
